@@ -1,0 +1,15 @@
+# Node modules (if any)
+node_modules/
+# Build output
+dist/
+# OS files
+.DS_Store
+Thumbs.db
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Environment files
+.env
+# PDF CV (if you prefer not to version it)
+assets/Durga_Devi_K_CV.pdf
